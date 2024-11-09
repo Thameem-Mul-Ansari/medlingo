@@ -1,0 +1,13 @@
+streamlit
+pdfplumber
+groq
+langchain
+langchain_groq
+langchain_community
+faiss-cpu
+google-generativeai
+python-dotenv
+pymupdf
+pillow
+glob2
+pypdf
