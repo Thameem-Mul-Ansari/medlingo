@@ -1,0 +1,11 @@
+knocked out by the E484K substitution of Beta and 
+Gamma variants [23,25] . REGN10987 (imdevimab), 
+another commercial mAb that binds at the right shoulder 
+Figure 2  
+Current Opinion in Virology
+(a and b) ACE2 footprint on the RBD. The RBD is colored in light gray and the ACE2 footprint in dark gray. (c–e) Mutations of SARS-CoV-2 variants in 
+the RBD. Mutations from strain BQ.1 are colored in red and mutations from other strains that are not present in BQ.1 are colored in yellow. The ACE2 
+footprint is marked by black lines. (f) Different binding modes of four mAbs (LY-CoV555: blue, PDB: 7KMG; COVOX-384: red, PDB: 7BEP; 
+REGN10987: magenta, PDB: 6XDG; Beta-27: yellow, PDB: 8BH5) with the RBD. (g) Binding region of Omi-42 (red) on the RBD, which is partially 
+overlapped with the ACE2 footprint (marked by black lines). (h) Binding of the CDRs of Omi-42 with the RBD (CDRs of the heavy chain are colored in 
+cyan and light chain in green), PDB: 7ZR7.

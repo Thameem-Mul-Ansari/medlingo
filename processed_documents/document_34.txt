@@ -1,0 +1,18 @@
+as SARS-CoV-2 continues to evolve. 
+Away from the ACE2-binding site, neutralizing anti -
+bodies have been identified that bind at either the left 
+flank or back of the RBD, two large areas that are highly 
+conserved across all SARS-CoV-2 variants. In addition, 
+antibodies have been found against the SD1 domain in 
+S1 and the stem helix and the fusion peptide in S2, all of 
+which are functionally essential and highly conserved. 
+MAbs targeting these regions are potentially very 
+broadly neutralizing, although they are usually not very 
+potent, and so may not be very effective when used 
+alone. To reduce the likelihood of antibody escape of 
+SARS-CoV-2, in principle, broadly neutralizing mAbs 
+targeting different epitopes can be used as cocktails and 
+these weak mAbs can be combined with potent anti- 
+RBD mAbs. Bispecific antibodies can also be developed, 
+with two different broadly neutralizing Fabs in the two 
+arms of one IgG molecule. Some well-designed bispe -

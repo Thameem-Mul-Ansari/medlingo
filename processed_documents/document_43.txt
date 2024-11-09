@@ -1,0 +1,17 @@
+Cell 2022, 13:655-675. 
+33. Ren, P. et al.: Function and Cryo-EM structures of broadly 
+potent bispecific antibodies against multiple SARS-CoV-2 
+Omicron sublineages. bioRxiv. 2022. 
+34. Luo S, et al.: An antibody from single human VH-rearranging 
+mouse neutralizes all SARS-CoV-2 variants through BA. 5 by 
+inhibiting membrane fusion. Sci Immunol 2022, 7:eadd5446. 
+35. Kumar S, et al.: Structural insights for neutralization of Omicron 
+variants BA. 1, BA. 2, BA. 4, and BA. 5 by a broadly neutralizing 
+SARS-CoV-2 antibody. Sci Adv 2022, 8:eadd2032. 
+36. Francica J. et al.: The SARS-CoV-2 monoclonal antibody 
+AZD3152 potently neutralises historical and currently 
+circulating variants. Poster presented at: 33rd European Congress 
+of Clinical Microbiology & Infectious Diseases (ECCMID); 
+Copenhagen, Denmark; 17 April 2023. 
+37. Starr TN, et al.: SARS-CoV-2 RBD antibodies that maximize 
+breadth and resistance to escape. Nature 2021, 597:97-102.

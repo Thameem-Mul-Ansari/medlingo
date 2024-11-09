@@ -1,0 +1,18 @@
+characterized rare conformational state of the spike in 
+which its epitope on SD1 is accessible. P008–60 and 
+sd1.040 therefore neutralize the virus by destabilizing 
+the spike trimer [46,47] . S3H3 may neutralize SARS- 
+CoV-2 by blocking the release of S1 from the spike to 
+inhibit the virus entry [48] . However, to date, these SD1 
+binders neutralize relatively weakly, compared with 
+potent ACE2-blocking RBD-binding mAbs [16,46] . 
+Stem-helix region 
+The stem-helix region (residues 1144–1158 of Wuhan 
+strain) is part of the viral fusion machinery and is highly 
+conserved among betacoronaviruses [49] . Several neu -
+tralizing mAbs target this region, including CV3–25 [17] , 
+S2P6 [50] , B6 [51] , CC40.8 [52] , 1.6C7, and 28D9 [53] . 
+They all have the ability to inhibit membrane fusion but 
+recognize different epitopes in the stem-helix region. 
+CV3–25 interacts with the C terminus of the stem helix 
+(residues 1153–1158) as well as the hinge (residues

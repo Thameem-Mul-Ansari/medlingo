@@ -1,0 +1,19 @@
+epitope called the NTD supersite, which comprises the 
+N1 (residues 14–26), N3 (residues 141–156), and N5 
+(residues 246–260) loops [5,44,45] . This restricted mode 
+of binding, together with the high level of variation seen 
+in the NTD, caused not only by point substitutions (as 
+in the RBD), but also by multiple deletions/insertions, 
+facilitates antibody escape. The currently dominant 
+BA.5 strain has nine substitutions/deletions in the NTD, 
+with nearly half of these in the supersite. Thus, NTD- 
+specific mAbs are generally not broadly neutralizing  
+[24,44,45] . 
+Subdomain 1 
+The SD1 domain is highly conserved across all VoCs and 
+currently circulating strains. The only reported muta -
+tions in SD1 of these strains are T547K and A570D, but 
+these two amino acids are buried inside the spike trimer, 
+so they generally cannot be recognized by neutralizing 
+mAbs [8] . Representative neutralizing mAbs targeting 
+SD1 include S3H3 [16] , P008_60 [46] , and sd1.040 [47] .

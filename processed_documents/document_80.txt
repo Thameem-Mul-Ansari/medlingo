@@ -1,0 +1,13 @@
+exacerbation caused by virus infection may be more severe in patients with coexisting allergies [48, 49].
+Obesity (BMI >30) was associated with higher odds for self-reported respiratory tract infections and the
+use of antibiotics in both the general and asthma population. Being underweight was linked to higher odds
+of respiratory tract infections and antibiotics in asthmatic individuals. We have, in previous analyses, found
+TABLE 2 Multiple logistic regression models for respiratory infections (at least three or more) and antibiotic
+(any) use for respiratory infections in the whole population in the past 12 months, adjusted for age, sex,
+smoking status, body mass index and centre
+Respiratory infections, OR (95% CI) Antibiotics, OR (95% CI)
+Not adjusted Adjusted Not adjusted Adjusted
+Female 1.42 (1.28–1.57) 1.44 (1.29 –1.61) 1.68 (1.53 –1.83) 1.70 (1.55 –1.88)
+Age years
+<35 1 1 1 1
+35–44 0.94 (0.83 –1.06) 0.99 (0.87 –1.12) 1.00 (0.90 –1.11) 1.07 (0.95 –1.19)

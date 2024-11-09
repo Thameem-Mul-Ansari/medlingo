@@ -1,0 +1,19 @@
+escape from responses against earlier versions of Omi -
+cron [26]
+. 
+Despite the loss of activity of most neutralizing mAbs, a 
+few have been reported recently that retain potency 
+against Alpha, Beta, Gamma, Delta, BA.1, BA.2, and 
+BA.4/5 variants, and in some cases BA.1.1 or BA.2.12.1. 
+Based on their footprints on the RBD, these mAbs can 
+be roughly divided into two groups: those targeting the 
+back of the left-shoulder (F61 [27] and Omi-42 [28]) and 
+right-shoulder binders (LY-CoV1404 (bebtelovimab)  
+[29], 2–7 [30], XGv265 [31], XG005 [32], AZD1061 [1], 
+MB.02 [33], SP1–77 [34], and 002-S21F2) [35]. However, 
+it is likely that many of these mAbs will lose potency 
+against the most recently emerging Omicron sublineages 
+(BA.2.3.20, BA.2.75, BA.4.6, BA.5, BJ.1, BQ.1, and XBB) 
+with one or several of five mutations: R346X, K444X, 
+V445X, N450D, and N460X. Specifically, MAbs men -
+tioned above binding in the front of the right shoulder of

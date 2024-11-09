@@ -1,0 +1,19 @@
+neutralizing epitope on the spike S2 subunit. Commun Biol 
+2022, 5:1-13. 
+18. Dacon C, et al.: Broadly neutralizing antibodies target the 
+coronavirus fusion peptide. Science 2022, 377:728-735. 
+19. Zhou D, et al.: Structural basis for the neutralization of SARS- 
+CoV-2 by an antibody from a convalescent patient. Nat Struct 
+Mol Biol 2020, 27:950-958. 
+20. Piccoli L, et al.: Mapping neutralizing and immunodominant 
+sites on the SARS-CoV-2 spike receptor-binding domain by 
+structure-guided high-resolution serology. Cell 2020, 
+183:e1021. 
+21. Pinto D, et al.: Cross-neutralization of SARS-CoV-2 by a human 
+monoclonal SARS-CoV antibody. Nature 2020, 583:290-295. 
+22. Zhou D, et al.: Evidence of escape of SARS-CoV-2 variant B. 
+1.351 from natural and vaccine-induced sera. Cell 2021, 
+184:e2346. 
+23. Dejnirattisai W, et al.: SARS-CoV-2 Omicron-B. 1.1. 529 leads to 
+widespread escape from neutralizing antibody responses. Cell 
+2022, 185:e415.

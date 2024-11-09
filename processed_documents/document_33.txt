@@ -1,0 +1,17 @@
+often arriving, via convergent evolution of common amino 
+acid substitutions at positions around the ACE2 footprint 
+that abrogate the binding of groups of antibodies. Thus, 
+BQ.1 and XBB, for instance, show substantial escape [57]. 
+Very few anti-RBD antibodies survive this onslaught of 
+variation, although Omi-42, that acts by blocking ACE2 
+binding, remains highly active against all variants to date. It 
+seems likely that antibodies such as Omi-42 have survived 
+with neutralization intact because they contribute little to 
+the overall neutralization titer of polyclonal responses and 
+have been fortunate not to have been affected by bystander 
+effects from mutations selected because of their value in 
+abrogating more dominant neutralizers, but it also seems 
+likely that such antibodies will eventually also lose potency 
+as SARS-CoV-2 continues to evolve. 
+Away from the ACE2-binding site, neutralizing anti -
+bodies have been identified that bind at either the left

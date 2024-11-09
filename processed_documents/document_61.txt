@@ -1,0 +1,8 @@
+Classification of Occupations (ISCO-88) by an experienced occupational hygienist (ADH) [36]. These
+codes were connected to an asthma Job Exposure Matrix ( JEM) based on exposure patterns from the
+Nordic counties [32]. JEM classifications included high molecular weight agents (HMW), low molecular
+weight agents (LMW) and irritating agents [31]. In addition, we included self-reported exposure to
+dampness and mould defined as visible water damage, visible mould or smell of mould in the last
+12 months [37].
+https://doi.org/10.1183/23120541.00429-2021 2
+ERJ OPEN RESEARCH ORIGINAL RESEARCH ARTICLE | M.A. KISIEL ET AL.

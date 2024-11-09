@@ -1,0 +1,26 @@
+Infection in general population, adjusted
+Antibiotics in general population, adjusted Antibiotics in asthma population, adjusted
+Infection in asthma population, adjusted
+Childhood otitis
+Childhood hospitalisation
+Childhood hospitalisation
+Childhood asthma
+Childhood asthma
+Childhood otitis
+Odds ratio Odds ratio
+0 0.5 1.5 2.5 3.5 4.5 2341 0 0.5 1.5 2.5 3.5 4.5 2341
+Odds ratio Odds ratio
+0 0.5 1.5 2.5 3.5 4.5 2341 0 0.5 1.5 2.5 3.5 4.5 2341
+FIGURE 2 Multiple logistic regression models (odds ratio) for infection (at least three infections) and antibiotic (any) use in relation to childhood
+otitis, childhood hospitalisation and childhood asthma in general population and asthmatic subjects. Adjusted for age, sex, smoking status, body
+mass index and centre.
+LMW
+Infection in general population, adjusted Antibiotic in general population, adjusted
+HMW
+Irritants
+Dampness and mould
+0 0.5 1.5
+Odds ratio
+2.521 0 0.5 1.5
+Odds ratio
+2.521

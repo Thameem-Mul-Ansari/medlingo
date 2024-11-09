@@ -1,0 +1,12 @@
+Results
+Characteristics of the study population
+Of the 15 842 participants included in the study, 53% were women, and the age span was between 25 and
+54 years. Around half of the population had a BMI between 20 and 25 kg·m−2 and were never-smokers.
+The prevalence of asthma was 6.6%. Other characteristics are presented in table 1.
+Infections and antibiotics
+In the whole population, 11.6% reported having three or more respiratory tract infections and 14.7% had
+used antibiotics because of a respiratory disorder within the last 12 months. Both respiratory tract
+infections and the use of antibiotics was significantly more common in subjects with asthma (figure 1,
+table 2, Supplemental Table 1).
+Factors associated with respiratory infections in the general population and asthmatic subjects
+Multiple logistic regression models with adjustment to age, sex, smoking status, BMI and centre showed

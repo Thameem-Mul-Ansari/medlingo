@@ -1,0 +1,18 @@
+with ACE2 binding [5,6,9–11] . In line with this, many 
+mutations in variants occur on the edge of (or in some 
+cases more central to) the ACE-binding site, presumably 
+allowing escape from ACE2-blocking antibodies without 
+significantly impairing ACE2 binding ( Figure 2 a–e). To 
+date, a little over three years since the virus emerged, 
+the observed variants already account for changes at 
+more than 30 of the ∼ 200 residues in the RBD. Although 
+neutralizing antibodies have been found that bind a 
+single, so-called supersite within the NTD, this epitope 
+is not well conserved between variants and so activity is 
+generally narrow [12–15] . Although much less common 
+and usually less potent than the best ACE2 blockers, 
+neutralizing antibodies have also been found against 
+SD1, the stem-helix region, and the fusion peptide  
+[16–18] . Here, we mainly review broadly neutralizing 
+mAbs directed against highly conserved epitopes in 
+portions of the RBD and SD1 on S1 and the stem-helix

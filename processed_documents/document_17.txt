@@ -1,0 +1,19 @@
+with one or several of five mutations: R346X, K444X, 
+V445X, N450D, and N460X. Specifically, MAbs men -
+tioned above binding in the front of the right shoulder of 
+the RBD may be knocked out by R346T/S, K444T/R, 
+V445P, G446S, and N450D substitutions (Figure 2e). 
+For example, the potency of LY-CoV1404 is severely 
+impaired by the V445P substitution in BJ.1 and XBB  
+[28]. AZD1061 is knocked out by R346T in BA.2.75.2 
+and is ineffective against BA.2.3.20, possibly due to the 
+K444R and N450D mutations [28]. MAb F61, which 
+targets the back of the left shoulder, may be impaired by 
+the N460K substitution found in a series of BA.5 sub -
+lineages or G476S mutation in BS.1 (BA.2.3.2.1). MAb 
+Omi-42 is very unusual in retaining potent neutralizing 
+ability against all VoCs and recent emerging Omicron 
+sublineages [11]. 
+Omi-42 is a highly potent antibody isolated from a pa -
+tient infected by BA.1. A cryo-EM structure (PDB: 
+7ZR7) shows Omi-42 to bind at the back of the left

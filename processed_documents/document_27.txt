@@ -1,0 +1,17 @@
+so they generally cannot be recognized by neutralizing 
+mAbs [8] . Representative neutralizing mAbs targeting 
+SD1 include S3H3 [16] , P008_60 [46] , and sd1.040 [47] . 
+Pseudovirus or live-virus neutralization assays showed 
+that these antibodies neutralize a panel of variants but 
+recognize different epitopes [16,46,47] . While all interact 
+with SD1, S3H3 also interacts with the N-terminal re -
+gion and sd1.040 interacts with the C-terminal region of 
+the RBD ( Figure 3 d, e). S3H3 binds trimeric spike but 
+P008_60 and sd1.040 dissociate trimeric spike and only 
+complexes of S1 with Fab could be observed, due to 
+clashes of Fabs with the adjacent NTD in the trimeric 
+spike. Given the ability of P008_60 and sd1.040 to 
+neutralize the virus, they may recognize an un -
+characterized rare conformational state of the spike in 
+which its epitope on SD1 is accessible. P008–60 and 
+sd1.040 therefore neutralize the virus by destabilizing

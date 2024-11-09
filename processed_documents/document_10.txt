@@ -1,0 +1,11 @@
+(Beta), P.1 (Gamma), and B.1.617.2 (Delta) to B.1.1.529 
+(Omicron BA.1) and the currently worldwide-dominant 
+Omicron strains (with respective prevalence: BQ.1 
+Figure 1  
+Current Opinion in Virology
+(a) Phylogenetic tree of SARS-CoV-2 previous VoCs (Wuhan, Alpha, Beta, Gamma, Delta, and Omicron BA.1) and currently dominant strains (BA.5, 
+BQ.1, BA.2.75, and XBB). The tree is based on the amino acid sequences of the spike protein. (b) Regions of SARS-CoV-2 spike protein (in gray, PDB: 
+6XR8) targeted by 4 types of broadly neutralizing mAbs. The RBD, NTD, SD1, fusion peptide, and stem helix are colored in blue, cyan, green, red, and 
+orange, respectively. (c) Cartoon representation of the RBD (left) and the surface representation of the RBD showing the locations of the left shoulder, 
+neck, right shoulder, left flank, and right flank (right), PDB: 7BEI. The binding site of ACE2 on the RBD is colored in green.   
+2 Virus structure and expression

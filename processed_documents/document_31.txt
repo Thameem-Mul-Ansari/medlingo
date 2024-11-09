@@ -1,0 +1,18 @@
+iants. Sequence alignment of more than 7.9 million de -
+posited SARS-CoV-2 sequences indicates residues in this 
+region have identities >  99.7% [54]. Indeed, this peptide 
+is conserved among all coronaviruses [55]. Several neu -
+tralizing mAbs target this region, including COV44–62, 
+COV44–79 [18], VN01H1, C77G12 [54], and 76E1 [56] 
+(Figure 4b). These mAbs broadly neutralize all alpha- and 
+betacoronaviruses, including the currently dominant 
+SARS-CoV-2 variants. Experiments on Syrian hamster or 
+mouse models showed they all limited disease caused and 
+reduced viral load [18,54,56]. Structural studies showed 
+the epitope recognized by all these antibodies is in -
+accessible in the prefusion spike trimer and it appears the 
+epitope becomes exposed upon conformational changes 
+induced by binding of ACE2. Once again, compared with 
+anti-RBD antibodies, these antibodies have weak po -
+tency against SARS-CoV-2 [18,54,56]. 
+Conclusion

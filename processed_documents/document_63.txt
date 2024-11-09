@@ -1,0 +1,13 @@
+numbers UT REC 60/3–1998, UT REC 209 T-17, UT REC 225/M-24) and Uppsala (reference numbers
+1990/257, 1998/495 and 2010/068).
+Statistics
+The categorical variables were presented as prevalence with percentage, and the continuous variables were
+presented as mean with standard deviation (SD). Multiple logistic regression models with and without
+adjustment for selected confounding factors such as age, sex, smoking status, BMI and centre were used to
+study the association infection/antibiotics and asthma, as well as the association between infection/
+antibiotics and the JEM-assessed occupational exposures and self-reported exposure factors. The results of
+the regression analysis were presented as odds ratios with 95% confidence intervals. All statistical analysis
+was performed with R program version 4.0.2, applying a 5% level of significance.
+Results
+Characteristics of the study population
+Of the 15 842 participants included in the study, 53% were women, and the age span was between 25 and

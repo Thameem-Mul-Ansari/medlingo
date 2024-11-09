@@ -1,0 +1,13 @@
+Diabetes 1.19 (0.45 –3.10) 1.16 (0.43 –3.15) 1.23 (0.53 –2.88) 1.17 (0.48 –2.90)
+Centre
+Aarhus 1 1 1 1
+Reykjavik 2.24 (1.24–4.04) 2.26 (1.22 –4.18) 1.43 (1.41 –3.94) 1.44 (1.32 –3.86)
+Bergen 0.90 (0.52 –1.58) 0.86 (0.48 –1.54) 1.49 (1.03 –2.67) 1.51 (0.98 –2.65)
+Gothenburg 1.39 (0.81 –2.40) 1.33 (0.76 –2.33) 1.39 (1.08 –2.76) 1.39 (1.06 –2.81)
+Umeå 0.88 (0.53 –1.48) 0.85 (0.50 –1.47) 0.81 (0.50 –1.25) 0.86 (0.54 –1.41)
+Uppsala 1.05 (0.63 –1.76) 0.97 (0.56 –1.67) 1.42 (0.75 –1.87) 1.49 (0.75 –1.97)
+Tartu 2.57 (1.18 –5.57) 2.99 (1.34 –6.68) 2.59 (1.76 –8.11) 2.54 (1.80 –8.89)
+Adjusted for age, sex, smoking status, body mass index and centre. #: asthma symptoms including night
+symptoms and wheeze.
+https://doi.org/10.1183/23120541.00429-2021 7
+ERJ OPEN RESEARCH ORIGINAL RESEARCH ARTICLE | M.A. KISIEL ET AL.

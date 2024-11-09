@@ -1,0 +1,10 @@
+Factors associated with respiratory infections in the general population and asthmatic subjects
+Multiple logistic regression models with adjustment to age, sex, smoking status, BMI and centre showed
+that subjects with asthma had almost a three-fold increased odds ratio for respiratory tract infections in the
+past year compared to non-asthmatic subjects (table 2). The odds for antibiotic treatment were about 3.5
+times higher in asthmatic than in non-asthmatic subjects.
+Women with and without asthma reported more respiratory tract infections and antibiotic use than men
+(tables 2 and 3). In the general population, the frequency of reported respiratory tract infections occurred
+less with increasing age. In contrast, in asthmatic subjects, the odds of respiratory tract infections and
+antibiotics increased with age. The odds for respiratory tract infections and antibiotics increased with
+decreasing socioeconomic status and low education in the general population. Overweight (BMI

@@ -1,0 +1,19 @@
+[16–18] . Here, we mainly review broadly neutralizing 
+mAbs directed against highly conserved epitopes in 
+portions of the RBD and SD1 on S1 and the stem-helix 
+region and the fusion peptide in S2 ( Figure 1 b). 
+Receptor-binding domain 
+MAbs binding near the neck and shoulders of the RBD 
+have either footprint or spatial overlap with ACE2, en -
+abling them to block ACE2 binding and thus have the 
+strongest neutralizing abilities against SARS-CoV-2. 
+Mabs with epitopes far from this area, lower on the 
+flanks of the RBD, for example, EY6A [19] , S304  
+[20] , and S309 [21] , are usually much less potent. 
+The succession of mutations from earlier-circulating 
+variants of concern (VoCs) B.1.1.7 (Alpha), B.1.351 
+(Beta), P.1 (Gamma), and B.1.617.2 (Delta) to B.1.1.529 
+(Omicron BA.1) and the currently worldwide-dominant 
+Omicron strains (with respective prevalence: BQ.1 
+Figure 1  
+Current Opinion in Virology

@@ -1,0 +1,19 @@
+proved epitope on the fusion peptide becomes exposed upon con -
+formational changes induced by binding of ACE2. 
+55. Madu IG, Roth SL, Belouzard S, Whittaker GR: Characterization of 
+a highly conserved domain within the severe acute respiratory 
+syndrome coronavirus spike protein S2 domain with 
+characteristics of a viral fusion peptide. J Virol 2009, 
+83:7411-7421. 
+56. Sun X, et al.: Neutralization mechanism of a human antibody 
+with pan-coronavirus reactivity including SARS-CoV-2. Nat 
+Microbiol 2022, 7:1063-1074. 
+57. Wang Q, et al.: Alarming antibody evasion properties of rising 
+SARS-CoV-2 BQ and XBB subvariants. Cell 2022, 
+186:279-286.e8. 
+58. Liu Y, et al.: Inactivated vaccine-elicited potent antibodies can 
+broadly neutralize SARS-CoV-2 circulating variants. Nat 
+Commun 2023, 14:2179. 
+59. Wang Y, et al.: Biparatopic antibody BA7208/7125 effectively 
+neutralizes SARS-CoV-2 variants including Omicron BA. 1-BA. 
+5. Cell Discov 2023, 9:3.

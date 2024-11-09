@@ -1,0 +1,18 @@
+Omicron strains ( Figure 1 a, phylogenetic tree), the virus 
+has gained increased transmissibility and immune es -
+cape. Many mAbs, including approved therapeutic ones 
+that neutralize earlier variants, have largely or totally lost 
+their ability to neutralize new variants [3,4] . It is there -
+fore essential to develop broadly neutralizing antibodies 
+for the ongoing Omicron variants and, ideally, new var -
+iants that will emerge in the future. 
+The major antigens of SARS-CoV-2 are the nucleopro -
+tein and the trimeric spike glycoprotein, and numerous 
+spike-binding antibodies have been characterized as 
+potent neutralizers [5,6] . Spike consists of the S1 and S2 
+subunits that are linked by a furin protease cleavage site. 
+S1 mediates binding with the receptor angiotensin- 
+converting enzyme 2 (ACE2) [7] and S2 facilitates 
+membrane fusion with the host cell. The S1 subunit has 
+a string of domains with the N-terminal domain (NTD), 
+subdomain 1 (SD1), and receptor-binding domain

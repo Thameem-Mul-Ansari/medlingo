@@ -1,0 +1,19 @@
+while IY-2A is still strongly active [38,41] . Structural 
+studies show that Wuhan spike usually adopts the two- 
+and three-RBD-up conformations after binding ACE2, 
+while Omicron spike packs more tightly and maintains 
+the preferential one-RBD-up conformation, both before 
+and after ACE2 binding [42] . S304 cannot bind to the 
+up-RBD in the one-RBD-up conformation of the Omi -
+cron spike because it will clash with adjacent RBD that 
+has a ‘down’ conformation [41,42] . This may be why 
+S304 can neutralize previous VoCs but not the Omicron 
+sublineage, indicating that an antibody can lose its po -
+tency when its conserved epitope becomes inaccessible. 
+In contrast to Omi-42, broadly neutralizing mAbs 
+binding at the conserved regions in the left flank or back 
+of the RBD usually neutralize more weakly, possibly 
+because they have no or little blocking effect on ACE2 
+binding. 
+N-terminal domain 
+Although there are also neutralizing antibodies that re -

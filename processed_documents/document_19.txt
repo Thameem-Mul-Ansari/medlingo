@@ -1,0 +1,18 @@
+combined with cilgavimab as AZD5156 that is in Phase- 
+I/-III clinical trial (https://clinicaltrials.gov/ct2/show/ 
+NCT05648110) for pre-exposure prophylaxis of im -
+munocompromised patients. 
+In addition to the highly potent mAbs, there are also 
+more weakly neutralizing anti-RBD mAbs with potential 
+broad neutralizing ability [6,19,37,38]. These weakly 
+neutralizing mAbs have little or no effect on ACE2 
+binding but they bind RBD in two different conserved 
+regions and utilize different neutralization mechanisms. 
+These two large continuous conserved regions on the 
+RBD surface are: one starts from the front of the left 
+shoulder and runs all the way down to the left flank 
+(Figures 2e and 3a, b); another one is at the bottom part 
+of the back of the RBD, just below the Omi-42-binding 
+site (Figures 2d and 3c). Representative neutralizing 
+mAbs binding in the vicinity of the left-flank conserved 
+region include COVOX-45 [6] and S2H97 [37]. S2H97

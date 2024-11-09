@@ -1,0 +1,19 @@
+of the RBD, was knocked out by the N440K and G446S 
+substitutions of the Omicron BA.1 strain [23]. Beta-27, a 
+potent mAb that binds at the neck and back of the left 
+shoulder and broadly neutralizes Alpha, Beta, Gamma, 
+and Delta variants, was impaired by Q493R and Y505H 
+of Omicron BA.1 [23] (Figure 2f). In fact, the BA.1 strain 
+marked a step change in divergence with no less than 15 
+substitutions in the RBD, causing widespread escape 
+from most existing, early pandemic generated, neu -
+tralizing antibodies [4,23,24]. BA.2 took over from BA.1 
+in March 2022 as the dominant variant and globally the 
+virus has since fragmented into a plethora of strains 
+derived from BA.2, many showing convergent mutations 
+around the ACE2-binding site that confer considerable 
+escape from responses against earlier versions of Omi -
+cron [26]
+. 
+Despite the loss of activity of most neutralizing mAbs, a 
+few have been reported recently that retain potency

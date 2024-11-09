@@ -1,0 +1,20 @@
+3. Kumari M, et al.: A critical overview of current progress for 
+COVID-19: development of vaccines, antiviral drugs, and 
+therapeutic antibodies. J Biomed Sci 2022, 29:1-36. 
+4. Tuekprakhon A, et al.: Antibody escape of SARS-CoV-2 Omicron 
+BA. 4 and BA.5 from vaccine and BA. 1 serum. Cell 2022, 
+185:e2413. 
+5. Liu L, et al.: Potent neutralizing antibodies against multiple 
+epitopes on SARS-CoV-2 spike. Nature 2020, 584:450-456. 
+6. Dejnirattisai W, et al.: The antigenic anatomy of SARS-CoV-2 
+receptor binding domain. Cell 2021, 184:e2122. 
+7. Hoffmann M, et al.: SARS-CoV-2 cell entry depends on ACE2 
+and TMPRSS2 and is blocked by a clinically proven protease 
+inhibitor. cell 2020, 181:e278. 
+8.
+•
+Wrapp D, et al.: Cryo-EM structure of the 2019-nCoV spike in the 
+prefusion conformation. Science 2020, 367:1260-1263. 
+This was the first paper reported the structure of the SARS-CoV-2 spike 
+protein. 
+9. Barnes CO, et al.: SARS-CoV-2 neutralizing antibody structures

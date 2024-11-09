@@ -1,0 +1,16 @@
+recognize different epitopes in the stem-helix region. 
+CV3–25 interacts with the C terminus of the stem helix 
+(residues 1153–1158) as well as the hinge (residues 
+1159–1166), while the other five mAbs mainly recognize 
+the N terminus of the stem helix (residues 1144–1154) 
+( Figure 4 a). High-resolution crystal structures showed 
+that S2P6, B6, and CC40.8 bind to the hydrophobic face 
+of the stem helix, which is mostly buried in the native 
+trimeric prefusion spike, indicating that binding of these 
+mAbs induces significant conformational changes in the 
+prefusion spike helix bundle. These conformational 
+Figure 4  
+Current Opinion in Virology
+(a) Binding patterns of Fabs (red) with stem-helix peptide (yellow). (b) Different Fabs (blue) binding with fusion peptide (orange). 
+6 Virus structure and expression  
+www.sciencedirect.com Current Opinion in Virology 2023, 61 :101332

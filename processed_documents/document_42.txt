@@ -1,0 +1,19 @@
+Discov 2022, 8.1:87. 
+28. Dijokaite-Guraliuc A, et al.: Rapid escape of new SARS-CoV-2 
+Omicron variants from BA. 2-directed antibody responses. Cell 
+Rep 2023, 42:112271. 
+29. Westendorf K, et al.: LY-CoV1404 (bebtelovimab) potently 
+neutralizes SARS-CoV-2 variants. Cell Rep 2022, 39:110812. 
+30. Cerutti G, et al.: Structural basis for accommodation of 
+emerging B. 1.351 and B.1.1. 7 variants by two potent SARS- 
+CoV-2 neutralizing antibodies. Structure 2021, 29:e654. 
+31. Wang K, et al.: Memory B cell repertoire from triple vaccinees 
+against diverse SARS-CoV-2 variants. Nature 2022, 
+603:919-925. 
+32. Liu Z, et al.: An ultrapotent pan-β-coronavirus lineage B (β-CoV- 
+B) neutralizing antibody locks the receptor-binding domain in 
+closed conformation by targeting its conserved epitope. Protein 
+Cell 2022, 13:655-675. 
+33. Ren, P. et al.: Function and Cryo-EM structures of broadly 
+potent bispecific antibodies against multiple SARS-CoV-2 
+Omicron sublineages. bioRxiv. 2022.

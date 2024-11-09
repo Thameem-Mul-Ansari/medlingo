@@ -1,0 +1,22 @@
+we review four types of neutralizing mAbs against the spike 
+protein with broad potency against previously and currently 
+circulating variants. These mAbs target the receptor-binding 
+domain, the subdomain 1, the stem helix, or the fusion peptide. 
+Understanding how these mAbs retain potency in the face of 
+mutational change could guide future development of 
+therapeutic antibodies and vaccines. 
+Addresses 
+1 
+Division of Structural Biology, University of Oxford, The Wellcome 
+Centre for Human Genetics, Headington, Oxford OX3 7BN, UK 
+2 
+Chinese Academy of Medical Sciences Oxford Institute, University of 
+Oxford, Oxford OX3 7FZ, UK 
+3 
+Diamond Light Source Ltd, Harwell Science & Innovation Campus, 
+Didcot OX11 0DE, UK 
+4 
+Nuffield Department of Medicine, Wellcome Centre for Human 
+Genetics, University of Oxford, Oxford OX3 7BN, UK   
+Corresponding authors: Zhou, Daming ( daming@strubi.ox.ac.uk ),  
+Stuart, David I ( dave@strubi.ox.ac.uk )

@@ -1,0 +1,24 @@
+(33.4%), sublineages of BA.5 (7.3%), BA.2.75 (12.4%) 
+and sublineages of XBB (31.6%), in epidemiological 
+week 4 of 2023 (23
+rd
+–29
+th 
+January), WHO data), have 
+accumulated mutations in the RBD ( Figures 1 a and  
+2 c–e). While some of these increase the binding affinity 
+for ACE2, increasing viral transmissibility [6,22] , many 
+more impair the potency of neutralizing antibodies, fa -
+cilitating reinfection of the recovered or vaccinated po -
+pulation [22–24] . 
+Many potent neutralizing mAbs, including all current 
+commercial therapeutic mAbs, have been rendered 
+wholly or largely ineffective by the emerging RBD 
+mutations. MAbs COVOX-384 and LY-CoV555 (bam -
+lanivimab), two potent antibodies against the Wuhan 
+strain targeting the RBD at the left shoulder, were 
+knocked out by the E484K substitution of Beta and 
+Gamma variants [23,25] . REGN10987 (imdevimab), 
+another commercial mAb that binds at the right shoulder 
+Figure 2  
+Current Opinion in Virology

@@ -1,0 +1,20 @@
+membrane fusion with the host cell. The S1 subunit has 
+a string of domains with the N-terminal domain (NTD), 
+subdomain 1 (SD1), and receptor-binding domain 
+(RBD) all characterized as binding neutralizing anti -
+bodies ( Figure 1 b). The RBD harbors the ACE2-binding 
+site, which lies across the top of the RBD, spanning the 
+neck and shoulders ( Figure 1 c). The RBD adopts a 
+range of configurations on the spike, from ‘up’ to ‘down’, 
+and only the up conformation can interact with ACE2  
+[8] . Both up and down conformations are observed in 
+published spike structures [6,8–10] . Previously, we in -
+troduced a naming convention for the RBD to describe 
+the epitopes of RBD-specific neutralizing mAbs, which 
+can be grouped in several clusters: left shoulder, neck, 
+right shoulder, left flank, and right flank [6] ( Figure 1 c). 
+Most potent neutralizing mAbs induced by vaccination 
+or natural infection target the RBD and usually interfere 
+]]
+]] 
+]]]]]]

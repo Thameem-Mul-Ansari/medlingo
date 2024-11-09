@@ -1,0 +1,24 @@
+Av ailable online at www .sciencedirect.com 
+Broadly neutralizing antibodies against COVID-19 
+Daming Zhou
+1 , 2
+, Jingshan Ren
+1
+, Elizabeth E Fry
+1 
+and  
+David I Stuart
+1 , 2 , 3 , 4   
+The COVID-19 pandemic caused by SARS-CoV-2 has led to 
+hundreds of millions of infections and millions of deaths, 
+however, human monoclonal antibodies (mAbs) can be an 
+effective treatment. Since SARS-CoV-2 emerged, a variety of 
+strains have acquired increasing numbers of mutations to gain 
+increased transmissibility and escape from the immune 
+response. Most reported neutralizing human mAbs, including all 
+approved therapeutic ones, have been knocked down or out by 
+these mutations. Broadly neutralizing mAbs are therefore of 
+great value, to treat current and possible future variants. Here, 
+we review four types of neutralizing mAbs against the spike 
+protein with broad potency against previously and currently 
+circulating variants. These mAbs target the receptor-binding

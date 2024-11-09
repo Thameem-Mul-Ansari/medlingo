@@ -1,0 +1,16 @@
+mass index and centre.
+LMW
+Infection in general population, adjusted Antibiotic in general population, adjusted
+HMW
+Irritants
+Dampness and mould
+0 0.5 1.5
+Odds ratio
+2.521 0 0.5 1.5
+Odds ratio
+2.521
+FIGURE 3 Multiple logistic regression models (odds ratio) for infection (at least three infections) and antibiotic (any) use in relation to occupational
+and environmental exposure (in the past 12 months) in general population and asthmatic subjects. Adjusted for age, sex, smoking status, body
+mass index and centres. LMW: low molecular weight agents; HMW: high molecular weight agents.
+https://doi.org/10.1183/23120541.00429-2021 8
+ERJ OPEN RESEARCH ORIGINAL RESEARCH ARTICLE | M.A. KISIEL ET AL.

@@ -1,0 +1,16 @@
+of the RBD usually neutralize more weakly, possibly 
+because they have no or little blocking effect on ACE2 
+binding. 
+N-terminal domain 
+Although there are also neutralizing antibodies that re -
+cognize the NTD, this spike domain is less im -
+munogenic than the RBD, possibly due to its extensive 
+glycan shielding [20,43,44] . Neutralizing mAbs targeting 
+the NTD appear to mainly recognize an extended single 
+Figure 3  
+Current Opinion in Virology
+(a–c) Binding of the CDRs of COVOX-45, S2H97, and EY6A with the more conserved regions of the RBD (COVOX-45, PDB: 7PRY; S2H97, 
+PDB: 7M7W; EY6A, PDB: 6ZCZ). (d and e) Different binding patterns of P008_60 (blue, PDB: 7ZBU), S3H3 (red, PDB: 7WD8), and SD1.040 (green, 
+PDB: 8D48) with the SD1 (gray). The mutations T547K and A570D of the SD1 are labeled. The peptide 320–330 of the RBD that interacts with S3H3 is 
+shown as an orange cartoon.   
+Broadly neutralizing antibodies against COVID-19 Zhou et al. 5

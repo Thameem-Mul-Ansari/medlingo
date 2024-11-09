@@ -1,0 +1,11 @@
+is notable that the associations with the use of antibiotics were more pronounced than the associations with
+respiratory tract infections; among asthmatic participants who had been hospitalised for respiratory
+infection in childhood, reported use of antibiotics was doubled while reported respiratory tract infections
+increased only insignificantly. A previous analysis on subjects from 22 counties found that adults reporting
+severe childhood respiratory infections had increased risk for asthma and wheeze as well as lower lung
+function in adulthood. Lower lung function was also shown in adults without asthma and wheeze who had
+severe respiratory childhood infection [53].
+TABLE 3 Multiple logistic regression models for respiratory infections (at least three times) and antibiotic use
+(at least once) in the subjects with asthma
+Respiratory infections, OR (95% CI) Antibiotics, OR (95% CI)
+Not adjusted Adjusted Not adjusted Adjusted

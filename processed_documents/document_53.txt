@@ -1,0 +1,9 @@
+the last 12 months. Multiple logistic regression with and without adjustment for age, sex, smoking status,
+body mass index and centre were used to study the risk of infection and antibiotics in relation to asthma,
+and also the association between infection and antibiotics and occupations.
+ResultsIn the whole population, 11.6% reported having three or more respiratory infections, and 14.7%
+had used antibiotics because of respiratory tract infections within the last year. Asthmatic participants
+reported tripled odds for such infections (adjusted OR 2.98, 95% CI 2.53–3.52) and antibiotics use
+(adjusted OR 3.67, 95% CI 3.18–4.24) as compared to non-asthmatic participants. Both in the general and
+the asthmatic population, female sex, obesity and exposure to building dampness were associated with
+respiratory infections. Female sex and current smoking and living in Tartu were associated with antibiotic

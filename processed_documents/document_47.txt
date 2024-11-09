@@ -1,0 +1,18 @@
+neutralizing mechanism was proposed in this paper. 
+51. Sauer MM, et al.: Structural basis for broad coronavirus 
+neutralization. Nat Struct Mol Biol 2021, 28:478-486. 
+52. Zhou P, et al.: A human antibody reveals a conserved site on 
+beta-coronavirus spike proteins and confers protection against 
+SARS-CoV-2 infection. Sci Transl Med 2022, 14:eabi9215. 
+53. Wang C, et al.: A conserved immunogenic and vulnerable site on 
+the coronavirus spike protein delineated by cross-reactive 
+monoclonal antibodies. Nat Commun 2021, 12:1-15. 
+54.
+•
+Low JS, et al.: ACE2-binding exposes the SARS-CoV-2 fusion 
+peptide to broadly neutralizing coronavirus antibodies. Science 
+2022, 377:735-742. 
+This paper reported neutralizing mAbs targeting the fusion peptide and 
+proved epitope on the fusion peptide becomes exposed upon con -
+formational changes induced by binding of ACE2. 
+55. Madu IG, Roth SL, Belouzard S, Whittaker GR: Characterization of

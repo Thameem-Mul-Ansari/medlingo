@@ -1,0 +1,13 @@
+Main outcome variables
+The two infection variables assessed were based on the following questions:
+1) How many respiratory tract infections have you had in the last 12 months? (the number was classified as
+“less than three” and “three or more than three”);
+2) Have you had any antibiotics for respiratory tract infection in the last 12 months? Yes/No
+The presented analyses included participants that had answered at least one of the infection questions
+(n=15 842).
+All participants gave written informed consent. The study was approved by the regional committees of
+medical research ethics in Aarhus (reference number 2011/M-20110106), Bergen (reference numbers
+42.91, 149.2000 and 2010/759), Reykjavik (reference number VSNb2011090016/03.15), Tartu (reference
+numbers UT REC 60/3–1998, UT REC 209 T-17, UT REC 225/M-24) and Uppsala (reference numbers
+1990/257, 1998/495 and 2010/068).
+Statistics

@@ -1,0 +1,19 @@
+This was the first paper reported the structure of the SARS-CoV-2 spike 
+protein. 
+9. Barnes CO, et al.: SARS-CoV-2 neutralizing antibody structures 
+inform therapeutic strategies. Nature 2020, 588:682-687. 
+10. Liu C, et al.: The antibody response to SARS-CoV-2 Beta 
+underscores the antigenic distance to other variants. Cell Host 
+Microbe 2022, 30:e12. 
+11.
+••
+Nutalai R, et al.: Potent cross-reactive antibodies following 
+Omicron breakthrough in vaccinees". Cell 2022, 185:2116-2131. 
+A potent broadly neutralizing mAb (Omi-42) against all previously and 
+currently circulating SARS-CoV-2 strains was reported in this paper. 
+12. Hastie KM, et al.: Defining variant-resistant epitopes targeted by 
+SARS-CoV-2 antibodies: a global consortium study. Science 
+2021, 374:472-478. 
+13. Wang P, et al.: Antibody resistance of SARS-CoV-2 variants B. 
+1.351 and B.1.1.7. Nature 2021, 593:130-135. 
+14. Graham C, et al.: Neutralization potency of monoclonal

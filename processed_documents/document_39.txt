@@ -1,0 +1,22 @@
+2021, 374:472-478. 
+13. Wang P, et al.: Antibody resistance of SARS-CoV-2 variants B. 
+1.351 and B.1.1.7. Nature 2021, 593:130-135. 
+14. Graham C, et al.: Neutralization potency of monoclonal 
+antibodies recognizing dominant and subdominant epitopes on 
+SARS-CoV-2 Spike is impacted by the B.1.1.7 variant. Immunity 
+2021, 54:e1276. 
+15. Andreano E, et al.: Anatomy of Omicron BA. 1 and BA. 2 
+neutralizing antibodies in COVID-19 mRNA vaccinees. Nat 
+Commun 2022, 13:1-8. 
+16.
+•
+Xu S, et al.: Mapping cross-variant neutralizing sites on the 
+SARS-CoV-2 spike protein. Emerg Microbes Infect 2022, 
+11:351-367. 
+This paper reported a relatively strong broadly neutralizing mAb tar -
+geting the SD1 region of SARS-CoV-2 spike. 
+17. Hurlburt NK, et al.: Structural definition of a pan-sarbecovirus 
+neutralizing epitope on the spike S2 subunit. Commun Biol 
+2022, 5:1-13. 
+18. Dacon C, et al.: Broadly neutralizing antibodies target the 
+coronavirus fusion peptide. Science 2022, 377:728-735.

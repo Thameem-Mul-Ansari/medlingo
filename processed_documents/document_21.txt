@@ -1,0 +1,18 @@
+may use the same neutralization mechanism since it 
+recognizes a similar epitope to S2H97. S309 (sotrovimab) 
+is another therapeutic antibody, which binds the right 
+flank. S309 was an effective therapeutic broadly neu -
+tralizing antibody against earlier variants, but its potency 
+was impaired by BA.2 sublineage, possibly due to the 
+S371F mutation [40], so it is no longer in widespread 
+therapeutic use. 
+Examples of broadly neutralizing antibodies that target 
+the conserved region at the back of the RBD are S304, 
+IY-2A [38], and EY6A (Figure 3c). They all recognize a 
+cryptic epitope buried inside the RBD-down trimeric 
+spike and neutralize SARS-COV-2 Wuhan strain by 
+disrupting the spike trimer [19,20,38]. This epitope is 
+conserved across all established and emerging variants. 
+S304, IY-2A, and EY6A all retain their strong binding 
+affinity for Omicron BA.1 RBD, however, S304 com -
+pletely lost its neutralizing ability against Omicron

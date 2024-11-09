@@ -1,0 +1,19 @@
+changes were demonstrated by structures of prefusion 
+spike–Fab complexes [50–52]. In contrast, CV3–25 
+binds to the hydrophilic face of the helix, however, the 
+CV3–25-bound stem helix (seen in a crystal structure) 
+adopts a different conformation to that in the native 
+prefusion spike visualized by cryo-EM structure [17]. All 
+these antibodies were broadly neutralized in pseudo -
+virus neutralization assay or animal models, but their 
+potency was weak [17,50–53]. 
+Fusion peptide 
+The fusion peptide is a hydrophobic segment of ∼20 
+residues, in the S2 domain of the spike protein, which is 
+immediately downstream of the S2′ cleavage site and 
+responsible for initiation of the fusion of the virus and 
+host cell membranes (residues 816–837, Figure 1b). This 
+peptide is highly conserved across all SARS-CoV-2 var -
+iants. Sequence alignment of more than 7.9 million de -
+posited SARS-CoV-2 sequences indicates residues in this 
+region have identities >  99.7% [54]. Indeed, this peptide

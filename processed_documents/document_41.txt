@@ -1,0 +1,20 @@
+184:e2346. 
+23. Dejnirattisai W, et al.: SARS-CoV-2 Omicron-B. 1.1. 529 leads to 
+widespread escape from neutralizing antibody responses. Cell 
+2022, 185:e415. 
+24. Cao Y, et al.: Omicron escapes the majority of existing SARS- 
+CoV-2 neutralizing antibodies. Nature 2022, 602:657-663. 
+25. Starr TN, Greaney AJ, Dingens AS, Bloom JD: Complete map of 
+SARS-CoV-2 RBD mutations that escape the monoclonal 
+antibody LY-CoV555 and its cocktail with LY-CoV016. Cell Rep 
+Med 2021, 2:100255. 
+26. Ai J, et al.: Antibody evasion of SARS-CoV-2 Omicron BA. 1, BA. 
+1.1, BA. 2, and BA. 3 sub-lineages. Cell Host Microbe 2022, 
+30:e1074. 
+27. Li X, et al.: Structural basis of a two-antibody cocktail exhibiting 
+highly potent and broadly neutralizing activities against SARS- 
+CoV-2 variants including diverse Omicron sublineages. Cell 
+Discov 2022, 8.1:87. 
+28. Dijokaite-Guraliuc A, et al.: Rapid escape of new SARS-CoV-2 
+Omicron variants from BA. 2-directed antibody responses. Cell 
+Rep 2023, 42:112271.

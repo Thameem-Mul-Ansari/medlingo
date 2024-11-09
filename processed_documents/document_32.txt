@@ -1,0 +1,18 @@
+induced by binding of ACE2. Once again, compared with 
+anti-RBD antibodies, these antibodies have weak po -
+tency against SARS-CoV-2 [18,54,56]. 
+Conclusion 
+The rapid evolution of antibody-binding epitopes enables 
+viruses to escape host immune response. The BA.1 strain 
+identified in November 2021 showed widespread escape 
+from antibody responses to vaccination or infection by early 
+pandemic virus [23] and in turn antibody responses from 
+BA.1 infection led to responses with significantly poorer 
+neutralization of BA.4/5, compared with BA.1 and BA.2 [4]. 
+Indeed, the majority of potent anti-RBD mAbs were 
+knocked out by BA.4/5. Since BA.4/5 SARS-COV-2 has 
+continued to evolve to gain increased immune escape, 
+leading to the proliferation of a large number of variants, 
+often arriving, via convergent evolution of common amino 
+acid substitutions at positions around the ACE2 footprint 
+that abrogate the binding of groups of antibodies. Thus,

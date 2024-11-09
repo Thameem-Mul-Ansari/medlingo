@@ -1,0 +1,19 @@
+46. Seow J, et al.: A neutralizing epitope on the SD1 domain of 
+SARS-CoV-2 spike targeted following infection and 
+vaccination. Cell Rep 2022, 40:111276. 
+47. Bianchini F, et al.: Human neutralizing antibodies to cold linear 
+epitopes and subdomain 1 of the SARS-CoV-2 spike 
+glycoprotein. Sci Immunol 2023, 8:eade0958. 
+48. Hong Q, et al.: Molecular basis of receptor binding and antibody 
+neutralization of Omicron. Nature 2022, 604:546-552. 
+49. Li W, et al.: Structural basis and mode of action for two broadly 
+neutralizing antibodies against SARS-CoV-2 emerging variants 
+of concern. Cell Rep 2022, 38:110210. 
+50.
+•
+Pinto D, et al.: Broad betacoronavirus neutralization by a stem 
+helix–specific human antibody. Science 2021, 373:1109-1116. 
+A neutralizing mAb recognizing the stem helix was reported and its 
+neutralizing mechanism was proposed in this paper. 
+51. Sauer MM, et al.: Structural basis for broad coronavirus 
+neutralization. Nat Struct Mol Biol 2021, 28:478-486.

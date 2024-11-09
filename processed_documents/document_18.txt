@@ -1,0 +1,19 @@
+sublineages [11]. 
+Omi-42 is a highly potent antibody isolated from a pa -
+tient infected by BA.1. A cryo-EM structure (PDB: 
+7ZR7) shows Omi-42 to bind at the back of the left 
+shoulder [11] (Figure 2g, h). Omi-42 and ACE2 have 
+substantially overlapping binding footprints on the RBD 
+(Figure 2g), so mutations in the overlap region that 
+compromise ACE2 binding would not be allowed. The 
+mutations that are on the edge of the ACE-binding site 
+and may affect binding of Omi-42 are K417N, S477N, 
+Q493R, and Y505H. Structural analysis [11] proves that 
+these four amino acid residues all interact with Omi-42 
+but Omi-42 retains its potency both in a live-virus 
+neutralization assay in vitro and a hamster challenge 
+study, despite the mutations at these sites [36]. A 
+slightly modified version of Omi-42, AZD3152, has been 
+combined with cilgavimab as AZD5156 that is in Phase- 
+I/-III clinical trial (https://clinicaltrials.gov/ct2/show/ 
+NCT05648110) for pre-exposure prophylaxis of im -

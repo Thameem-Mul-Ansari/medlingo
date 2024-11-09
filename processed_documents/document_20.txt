@@ -1,0 +1,18 @@
+site (Figures 2d and 3c). Representative neutralizing 
+mAbs binding in the vicinity of the left-flank conserved 
+region include COVOX-45 [6] and S2H97 [37]. S2H97 
+binds RBD exactly at the left flank, while COVOX-45 
+binds somewhat more toward the front (Figure 3a, b). It 
+was reported that S2H97 protected hamsters infected by 
+SARS-CoV-2 Wuhan strain and could neutralize BA.1 
+variant. S2H97 binds a panel of 45 RBDs of SARS-re -
+lated coronaviruses (sarbecoviruses) with high affinity 
+and is a promising pan-sarbecovirus-neutralizing anti -
+body [37,39]. COVOX-45 recognizes a similar epitope to 
+S2H97 but the breadth of its potency has not been 
+checked. S2H97 induces receptor-independent conver -
+sion of spike protein to the post-fusion state, thereby 
+inhibiting ACE2-dependent cell entry [37]. COVOX-45 
+may use the same neutralization mechanism since it 
+recognizes a similar epitope to S2H97. S309 (sotrovimab) 
+is another therapeutic antibody, which binds the right

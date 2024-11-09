@@ -1,0 +1,18 @@
+Copenhagen, Denmark; 17 April 2023. 
+37. Starr TN, et al.: SARS-CoV-2 RBD antibodies that maximize 
+breadth and resistance to escape. Nature 2021, 597:97-102. 
+38. Huang K-YA, et al.: Structural basis for a conserved 
+neutralization epitope on the receptor-binding domain of 
+SARS-CoV-2. Nat Commun 2023, 14:311. 
+39. Liu L, et al.: An antibody class with a common CDRH3 motif 
+broadly neutralizes sarbecoviruses. Sci Transl Med 2022, 
+14:eabn6859. 
+40. Iketani S, et al.: Antibody evasion properties of SARS-CoV-2 
+Omicron sublineages. Nature 2022, 604:553-556. 
+41. Huang M, et al.: Atlas of currently available human neutralizing 
+antibodies against SARS-CoV-2 and escape by Omicron sub- 
+variants BA.1/BA.1.1/BA.2/BA. 3. Immunity 2022, 55:e1503. 
+42. Zhao Z, et al.: Omicron SARS-CoV-2 mutations stabilize spike 
+up-RBD conformation and lead to a non-RBM-binding 
+monoclonal antibody escape. Nat Commun 2022, 13:1-12. 
+43. Walls AC, et al.: Structure, function, and antigenicity of the
