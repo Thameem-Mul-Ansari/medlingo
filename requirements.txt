@@ -9,5 +9,5 @@ google-generativeai
 python-dotenv
 pymupdf
 pillow
-glob2
+langchain_google_genai
 pypdf
